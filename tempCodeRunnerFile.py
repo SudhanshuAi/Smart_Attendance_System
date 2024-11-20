@@ -1,0 +1,1 @@
+python3 train_model.py --recognizer output/recognizer.joblib --le output/le.joblib
